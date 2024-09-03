@@ -6,6 +6,4 @@ Maciej J. Mendecki, Karol Abratkiewicz, "Rammstein Concert-Induced Seismicity Si
 Data: Maciej J. Mendecki, maciej.mendecki@us.edu.pl, Faculty of Natural Sciences, University of Silesia in Katowice, 41-200 Sosnowiec, Poland.
 Software: Karol Abratkiewicz, karol.abratkiewicz@pw.edu.pl, Institute of Electronic Systems, Warsaw University of Technology, 00-665 Warsaw, Poland
 
-Please use the following DOI when you cite the article: 10.5281/zenodo.13643504
-
-https://doi.org/10.5281/zenodo.13643504
+Please use the following DOI when you use the data or code for scientific purposes: https://doi.org/10.5281/zenodo.13643504
